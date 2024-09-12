@@ -64,7 +64,7 @@ def process_customer():
 
     # Lists to store valid referral codes and phone numbers
     referral_codes = ["bishal", "gIXO5D", "nwrYWW", "p5qGt6"]
-    returning_customers = ["7645911385", "7856432367", "8935567865"]
+    returning_customers = ["7645911385", "7856432367", "8971742263"]
 
     # Customer input
     phone_no = input("Enter your phone number: ")
